@@ -1,0 +1,23 @@
+#+TITLE:     CPS(Continuation-Passing Style)
+#+AUTHOR:    HarumiKiyama
+#+EMAIL:     lucius0720@hotmail.com
+#+DATE:      2017-12-17
+#+DESCRIPTION:
+#+OPTIONS: H:2 toc:nil num:nil
+#+LATEX_CLASS: beamer
+#+COLUMNS: %45ITEM %10BEAMER_env(Env) %10BEAMER_act(Act) %4BEAMER_col(Col) %8BEAMER_opt(Opt)
+#+BEAMER_THEME: default
+#+BEAMER_COLOR_THEME:
+#+BEAMER_FONT_THEME:
+#+BEAMER_INNER_THEME:
+#+BEAMER_OUTER_THEME:
+#+BEAMER_HEADER:
+* Introduction
+** A simple slide
+DejavuSansMono
+This slide consists of some text with a number of bullet points:
+
+- the first, very =important=, point!
+- the previous point shows the use of the special markup which
+  translates to the Beamer specific /alert/ command for highlighting
+  text.
