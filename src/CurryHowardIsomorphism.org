@@ -1,4 +1,4 @@
-#+TITLE:     Lambda Calculus
+#+TITLE:     Curry-Howard isomorphism
 #+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
 #+AUTHOR:    Harumi Kiyama
 #+EMAIL:     lucius0720@hotmail.com
@@ -13,5 +13,6 @@
 #+BEAMER_INNER_THEME:
 #+BEAMER_OUTER_THEME:
 #+BEAMER_HEADER:
-* What is Lambda Calculus
-* Why is Lambda Calculus
+* What is Curry-Howard isomorphism
+* Why is Curry-Howard isomorphism
+* How to do some cool stuff with Curry-Howard isomorphism
